@@ -154,7 +154,7 @@ Quickstart Guide
 
 Clone the repository and install dependencies in a virtual environment:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/light-rag-edge-engine.git
+git clone https://github.com/musharafhussainabid/light-rag-edge-engine.git
 cd light-rag-edge-engine
 python -m venv venv
 
