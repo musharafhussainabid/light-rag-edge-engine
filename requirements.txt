@@ -1,0 +1,8 @@
+numpy
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+huggingface-hub
+fastapi
+uvicorn
+psutil
